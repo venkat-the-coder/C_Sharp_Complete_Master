@@ -1,0 +1,13 @@
+﻿Compilation:
+	every code that we are writing is simply a text file which cannot be understand by a computer
+	that can be cokmpiled to make it understand 
+	a process of coverting a source code into a machine understanding format is called compilation
+	.cs file to .dll file
+
+Build:
+	once after build process files generated in bin folder once after cleaning solution it will be removed
+	those files are executables after build we can shre it to anybody
+	there we have follwoing files:
+		.exe it is an actual application
+		.dll Dynamic Link Library
+		.exe uses .dll file to run
