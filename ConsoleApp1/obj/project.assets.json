@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Master Class\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\C# Master Class\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\C# Master Class\\ConsoleApp1\\Csharp_Fundamentals.csproj",
+      "projectName": "Csharp_Fundamentals",
+      "projectPath": "D:\\C# Master Class\\ConsoleApp1\\Csharp_Fundamentals.csproj",
       "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
       "outputPath": "D:\\C# Master Class\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
